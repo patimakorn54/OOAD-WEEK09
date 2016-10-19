@@ -63,3 +63,38 @@ Telephone  --  Screen
 ```
 ![]
 ()
+
+ภาพที่ 4 Home
+```
+Code
+```
+```
+@startuml
+Home  --  Windows
+Home  --  Door
+Home  --  Bed
+
+Home :  -BedRoom
+Home :  -BathRoom
+Home :  -Kitchen
+Home :  +Stay()
+@enduml
+```
+![]
+()
+
+ภาพที่ 5 School
+```
+Code
+```
+```
+@startuml
+School  -->  field
+School  -->  Class
+School  -->  toilet
+
+School  :  +Teacher
+School  :  +Student
+School  :  +Study()
+@enduml
+```
