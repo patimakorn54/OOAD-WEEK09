@@ -24,7 +24,7 @@ Address : -Postal Code
 @enduml
 ```
 ![]
-()
+(https://github.com/patimakorn54/OOAD-WEEK09/blob/master/HomeWork/1.png?raw=true)
 
 ภาพที่ 2 รถยนต์
 ```
@@ -47,7 +47,7 @@ Engine : -Cylinder head
 @enduml
 ```
 ![]
-()
+(https://github.com/patimakorn54/OOAD-WEEK09/blob/master/HomeWork/2.png?raw=true)
 
 ภาพที่ 3 TelePhone
 ```
@@ -62,7 +62,7 @@ Telephone  --  Screen
 @enduml
 ```
 ![]
-()
+(https://github.com/patimakorn54/OOAD-WEEK09/blob/master/HomeWork/3.png?raw=true)
 
 ภาพที่ 4 Home
 ```
@@ -81,7 +81,7 @@ Home :  +Stay()
 @enduml
 ```
 ![]
-()
+(https://github.com/patimakorn54/OOAD-WEEK09/blob/master/HomeWork/4.png?raw=true)
 
 ภาพที่ 5 School
 ```
@@ -99,4 +99,4 @@ School  :  +Study()
 @enduml
 ```
 ![]
-()
+(https://github.com/patimakorn54/OOAD-WEEK09/blob/master/HomeWork/5.png?raw=true)
