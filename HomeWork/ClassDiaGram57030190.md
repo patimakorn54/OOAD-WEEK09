@@ -26,4 +26,40 @@ Address : -Postal Code
 ![]
 ()
 
-ภาพที่ 2
+ภาพที่ 2 รถยนต์
+```
+Code
+```
+```
+@startuml
+Car  "1" --* "1"  Engine
+
+
+Car : -Model Engine
+Car : -Id Car
+Car : Start()
+Car : Stop()
+Car : Seat()
+
+Engine : -piston
+Engine : -Cylinder head
+
+@enduml
+```
+![]
+()
+
+ภาพที่ 3 TelePhone
+```
+Code
+```
+```
+@startuml
+Telephone  --  Baterry
+Telephone  --  MicroPhone
+Telephone  --  Screen
+
+@enduml
+```
+![]
+()
