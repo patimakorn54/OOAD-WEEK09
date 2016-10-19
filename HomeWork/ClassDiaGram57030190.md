@@ -98,3 +98,5 @@ School  :  +Student
 School  :  +Study()
 @enduml
 ```
+![]
+()
